@@ -63,8 +63,8 @@ See the [rebrainme](https://rebrainme.com/devops/) for more details.
 
 ##### Все это означает, что нас ждет интересная и бескомпромиссная борьба,
 
-1. First ordered list item
-2. Another item
+1. gcsv csgc
+2. vthvt rtetr rrt
 ⋅⋅* Unordered sub-list. 
 1. Actual numbers don't matter, just that it's a number
 ⋅⋅1. Ordered sub-list
