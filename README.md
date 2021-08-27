@@ -61,7 +61,7 @@ See the [rebrainme](https://rebrainme.com/devops/) for more details.
 
 
 
-##### Все это означает, что нас ждет интересная и бескомпромиссная борьба,
+### Все это означает, что нас ждет интересная и бескомпромиссная борьба,
 
 1. gcsv csgc
 2. vthvt rtetr rrt
