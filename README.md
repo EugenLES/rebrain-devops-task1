@@ -45,6 +45,15 @@ The exporter supports TLS via a new web configuration file.
 
 See the [rebrainme](https://rebrainme.com/devops/) for more details.
 
+
+Colons can be used to align columns.
+
+|    Август     |   зерно       | Cool  |
+| ------------- |:-------------:| -----:|
+| col 3 is      | right-aligned | 8600 |
+| col 2 is      | centered      |   $12 |
+| zebra stripes | are neat      |    $1 |
+
 [travis-rebrainme]: https://rebrainme.com/devops/
 [hub-rebrainme]: https://rebrainme.com/devops/
 [circleci-rebrainme]: https://rebrainme.com/devops/
