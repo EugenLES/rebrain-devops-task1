@@ -43,7 +43,7 @@ The exporter supports TLS via a new web configuration file.
 ./node_exporter --web.config=web-config.yml
 ```
 
-See the [exporter-toolkit https package](ttps://rebrainme.com/devops/) for more details.
+See the [exporter-toolkit https package](https://rebrainme.com/devops/) for more details.
 
 [travis-rebrainme]: https://rebrainme.com/devops/
 [hub-rebrainme]: https://rebrainme.com/devops/
