@@ -46,7 +46,11 @@ The exporter supports TLS via a new web configuration file.
 See the [rebrainme](https://rebrainme.com/devops/) for more details.
 
 
-Colons can be used to align columns.
+
+
+
+
+### Анонс 6 тура УПЛ.
 
 |    Август     |   зерно       | Cool  |
 | ------------- |:-------------:| -----:|
