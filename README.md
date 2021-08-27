@@ -1,5 +1,5 @@
-[![README.md](https://img.shields.io/crates/v/cargo-readme.svg)](https://rebrainme.com/devops/)
-[![README.md](https://github.com/livioribeiro/cargo-readme/workflows/main/badge.svg)](https://rebrainme.com/devops/)
+[![README.md](https://upload.wikimedia.org/wikipedia/commons/6/60/United_States_Air_Force_Parachutist_Badge.svg)](https://rebrainme.com/devops/)
+
 
 
 # В данном репозитории находится дефолтный конфигурационный файл nginx
@@ -70,22 +70,34 @@ See the [rebrainme](https://rebrainme.com/devops/) for more details.
 ⋅⋅1. Ordered sub-list
 4. And another item.
 
-⋅⋅⋅You can have properly indented paragraphs within list items. Notice the blank line above, and the leading spaces (at least one, but we'll use three here to also align the raw Markdown).
-
-⋅⋅⋅To have a line break without a paragraph, you will need to use two trailing spaces.⋅⋅
-⋅⋅⋅Note that this line is separate, but within the same paragraph.⋅⋅
-⋅⋅⋅(This is contrary to the typical GFM line break behaviour, where trailing spaces are not required.)
-
-* Unordered list can use asterisks
-- Or minuses
-+ Or pluses
-
-
-
-
-###### Фоторепортаж
+##### Фоторепортаж
 
 Неделю назад, 19 августа, в звездной семье телеведущих Осадчей и Горбунова появился малыш. Это третий ребенок у Кати (напомним, что у Осадчей есть еще старший сын от первого брака с депутатом – 18-летний Илья) и второй сын у Юрия. О радостном событии знаменитости тут же рассказали на своих страничках в Instagram, опубликовав фотографию ножки младенца. Лицо малыша пара пока показывать не стала, зато 4-летнего Ивана родители наконец-то представили публике.
+
+
+
+
+- Как уже писал l
++ Как уже писал 
+  + Как уже писал  2 пробела
+    + Как уже писал  - третий уровень
+      + Как уже писал  - четвёртый уровень
+        + Как уже писал 
+* Как уже писал 
+ * Как уже писал 
+  * Как уже писал  не подняться
+
+
+
+
+
+
+## Польское издание обращает внимание
+
+> Mожет быть
+> > количества может быть
+
+> Продолжение количества может быть
 
 ## Онлайн-практикум DevOps
 
@@ -98,9 +110,8 @@ See the [rebrainme](https://rebrainme.com/devops/) for more details.
 практикуйтесь, когда вам удобно</dt>
 </dl>
 
-
-
-[travis-rebrainme](https://rebrainme.com/devops)
-
-[hub-rebrainme](https://rebrainme.com/devops)
-
+[travis-rebrainme]: https://rebrainme.com/devops/
+[hub-rebrainme]: https://rebrainme.com/devops/
+[circleci-rebrainme]: https://rebrainme.com/devops/
+[quay-rebrainme]: https://rebrainme.com/devops/
+[goreportcard-rebrainme]: https://rebrainme.com/devops/
