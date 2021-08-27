@@ -110,8 +110,6 @@ See the [rebrainme](https://rebrainme.com/devops/) for more details.
 практикуйтесь, когда вам удобно</dt>
 </dl>
 
-[travis-rebrainme]: https://rebrainme.com/devops/
-[hub-rebrainme]: https://rebrainme.com/devops/
-[circleci-rebrainme]: https://rebrainme.com/devops/
-[quay-rebrainme]: https://rebrainme.com/devops/
-[goreportcard-rebrainme]: https://rebrainme.com/devops/
+[travis-rebrainme]:https://rebrainme.com/devops
+
+[hub-rebrainme](https://rebrainme.com/devops)
