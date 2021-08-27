@@ -87,6 +87,18 @@ See the [rebrainme](https://rebrainme.com/devops/) for more details.
  * Как уже писал 
   * Как уже писал  не подняться
 
+
+
+
+
+
+## Польское издание обращает внимание
+
+> Mожет быть
+> > количества может быть
+
+> Продолжение количества может быть
+
 ## Онлайн-практикум DevOps
 
 [![rebrainme](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6JHHhIutbwnMkDjEhIEOZ4gIYROcufq0ByA&usqp=CAU)](https://youtu.be/8m5AeVkdhV0)
