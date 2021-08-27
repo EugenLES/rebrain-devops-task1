@@ -89,6 +89,9 @@ See the [rebrainme](https://rebrainme.com/devops/) for more details.
 
 
 
+
+## Онлайн-практикум DevOps
+
 [![rebrainme](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6JHHhIutbwnMkDjEhIEOZ4gIYROcufq0ByA&usqp=CAU)](https://youtu.be/8m5AeVkdhV0)
 
 [travis-rebrainme]: https://rebrainme.com/devops/
