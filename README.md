@@ -45,8 +45,8 @@ The exporter supports TLS via a new web configuration file.
 
 See the [exporter-toolkit https package](https://github.com/prometheus/exporter-toolkit/blob/v0.1.0/https/README.md) for more details.
 
-[travis]: https://travis-ci.org/prometheus/node_exporter
-[hub]: https://hub.docker.com/r/prom/node-exporter/
-[circleci]: https://circleci.com/gh/prometheus/node_exporter
-[quay]: https://quay.io/repository/prometheus/node-exporter
-[goreportcard]: https://goreportcard.com/report/github.com/prometheus/node_exporter
+[travis-rebrainme]: https://rebrainme.com/devops/
+[hub-rebrainme]: https://rebrainme.com/devops/
+[circleci-rebrainme]: https://rebrainme.com/devops/
+[quay-rebrainme]: https://rebrainme.com/devops/
+[goreportcard-rebrainme]: https://rebrainme.com/devops/
