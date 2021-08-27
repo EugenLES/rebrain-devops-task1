@@ -81,10 +81,7 @@ See the [rebrainme](https://rebrainme.com/devops/) for more details.
 + Or pluses
 
 
-<dl>
-  <dt>Онлайн-практикум -
-практикуйтесь, когда вам удобно</dt>
-</dl>
+
 
 ###### Фоторепортаж
 
@@ -93,6 +90,13 @@ See the [rebrainme](https://rebrainme.com/devops/) for more details.
 ## Онлайн-практикум DevOps
 
 [![rebrainme](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6JHHhIutbwnMkDjEhIEOZ4gIYROcufq0ByA&usqp=CAU)](https://youtu.be/8m5AeVkdhV0)
+
+
+
+<dl>
+  <dt>Онлайн-практикум -
+практикуйтесь, когда вам удобно</dt>
+</dl>
 
 [travis-rebrainme]: https://rebrainme.com/devops/
 [hub-rebrainme]: https://rebrainme.com/devops/
