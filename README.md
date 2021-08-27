@@ -43,7 +43,7 @@ The exporter supports TLS via a new web configuration file.
 ./node_exporter --web.config=web-config.yml
 ```
 
-See the [exporter-toolkit https package](https://github.com/prometheus/exporter-toolkit/blob/v0.1.0/https/README.md) for more details.
+See the [exporter-toolkit https package](ttps://rebrainme.com/devops/) for more details.
 
 [travis-rebrainme]: https://rebrainme.com/devops/
 [hub-rebrainme]: https://rebrainme.com/devops/
