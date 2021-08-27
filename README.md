@@ -81,6 +81,12 @@ See the [rebrainme](https://rebrainme.com/devops/) for more details.
 + Or pluses
 
 
+<dl>
+  <dt>Онлайн-практикум -
+практикуйтесь, когда вам удобно</dt>
+  
+</dl>
+
 
 [travis-rebrainme]: https://rebrainme.com/devops/
 [hub-rebrainme]: https://rebrainme.com/devops/
